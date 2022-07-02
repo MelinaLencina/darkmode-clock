@@ -1,4 +1,4 @@
-# darkmode-watch
+# darkmode-clock
 
 Clock with Dark Mode option
 
